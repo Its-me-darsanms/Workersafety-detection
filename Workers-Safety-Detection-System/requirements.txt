@@ -1,0 +1,11 @@
+#VIRTUAL ENVIRONMENT
+I would recommend creating a virtual environment for this project. You can do this using the following command:
+
+#REQUIRED LIBRARIES
+streamlit
+torch
+ultralytics
+Pillow
+numpy
+
+
