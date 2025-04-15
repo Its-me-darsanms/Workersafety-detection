@@ -4,7 +4,7 @@ A Streamlit web app that uses YOLOv8 to detect if workers are wearing safety equ
 
 *ACCURACY OF THE DATASET*: ~75%
 ---
-
+best.pt -> Dataset
 ## 🚀 Features
 
 - Upload images and detect PPE
