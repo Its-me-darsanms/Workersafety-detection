@@ -29,7 +29,7 @@ best.pt -> Dataset
 
 ### 1. Clone the Repo
 
-git clone https://github.com/Its-me-darsanms/Workers-Safety-Detection
+git clone https://github.com/Its-me-darsanms/WorkersSafety-detection
 cd Workers-Safety-Detection
 
 python -m venv venv
@@ -47,6 +47,7 @@ Workers-Safety-Detection/
 ├── best.pt              # YOLOv8 trained model
 ├── requirements.txt     # Dependencies
 └── README.md            # Project info
+
 
 
 
