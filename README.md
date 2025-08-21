@@ -28,7 +28,7 @@ best.pt -> Dataset
 ## 🛠️ How to Run Locally
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/Its-me-darsanms/Workers-Safety-Detection.git
 cd Workers-Safety-Detection
 
@@ -47,4 +47,5 @@ Workers-Safety-Detection/
 ├── best.pt              # YOLOv8 trained model
 ├── requirements.txt     # Dependencies
 └── README.md            # Project info
+
 
